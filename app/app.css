@@ -1,5 +1,8 @@
 /* app css stylesheet */
-
+body{
+  padding: 0;
+  margin: 0;
+}
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
@@ -22,4 +25,45 @@
 .menu > li + li:before {
   content: "|";
   padding-right: 0.3em;
+}
+.navbar_border{
+  border-bottom:1px solid #8049da;
+  height: 50px;
+  background-color: #5045e4;
+  
+}
+.color-white{
+  color: white;
+}
+
+.navbar-border-top{
+  border-top:1px solid #8049da;
+  height: 50px;
+  background-color: #5045e4;
+  
+}
+.page-footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color:white;
+}
+.page-login{
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  width: 50%;
+  
+}
+.text-center{
+  text-align: center;
+}
+.container-border{
+  border:1px solid rgb(204, 199, 199);
+  background-color: rgb(240, 231, 231);
+  border-radius:5px;
+  padding: 10px;
+  
 }
