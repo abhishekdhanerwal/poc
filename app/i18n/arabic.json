@@ -19,119 +19,113 @@
             "COLTWO":"يناير",
             "COLTHREE":""
         },
-        "ROWTWO":{
+        "ROWTHREE":{
             "COLONE":"10,000",
             "COLTWO":"10,000",
             "COLTHREE":"10,000",
             "COLFOUR":"مبيعات – 1"
         },
-        "ROWTHREE":{
-            "COLONE":"Sales – 1",
-            "COLTWO":"10,000",
-            "COLTHREE":"10,000",
-            "COLFOUR":"10,000"
-        },
         "ROWFOUR":{
-            "COLONE":"Sales – 2",
+            "COLONE":"3,000",
             "COLTWO":"5,000",
             "COLTHREE":"5,000",
-            "COLFOUR":"3,000"
+            "COLFOUR":"مبيعات – 2"
         },
         "ROWFIVE":{
-            "COLONE":"Revenue",
+            "COLONE":"13,000",
             "COLTWO":"15,000",
             "COLTHREE":"15,000",
-            "COLFOUR":"13,000"
+            "COLFOUR":"إيرادات النشاط"
         },
         "ROWSIX":{
-            "COLONE":"Cost of Sales",
-            "COLTWO":"2,000",
-            "COLTHREE":"1,000",
-            "COLFOUR":"5,000"
+            "COLONE":"5,000",
+            "COLTWO":"1,000",
+            "COLTHREE":"2,000",
+            "COLFOUR":"تكاليف المبيعات"
         },
         "ROWSEVEN":{
-            "COLONE":"Gross Profit",
-            "COLTWO":"13,000",
-            "COLTHREE":"14,000",
-            "COLFOUR":"8,000"
+            "COLONE":"8,000",
+            "COLTWO":"14,000",
+            "COLTHREE":"13,000",
+            "COLFOUR":"مجمل الخسارة"
         },
         "ROWEIGHT":{
-            "COLONE":"Gross Salaries",
+            "COLONE":"1,100",
             "COLTWO":"1,000",
             "COLTHREE":"1,000",
-            "COLFOUR":"1,100"
+            "COLFOUR":"أجور ومرتبات"
         },
         "ROWNINE":{
-            "COLONE":"Rent",
+            "COLONE":"500",
             "COLTWO":"500",
             "COLTHREE":"500",
-            "COLFOUR":"500"
+            "COLFOUR":"الإيجارات"
         },
         "ROWTEN":{
-            "COLONE":"Travelling Expenses",
-            "COLTWO":"200",
-            "COLTHREE":"600",
-            "COLFOUR":"400"
+            "COLONE":"400",
+            "COLTWO":"600",
+            "COLTHREE":"200",
+            "COLFOUR":"مصروفات سفر"
         },
         "ROWELEVEN":{
-            "COLONE":"Bank Charges",
+            "COLONE":"20",
             "COLTWO":"20",
             "COLTHREE":"20",
-            "COLFOUR":"20"
+            "COLFOUR":"مصروفات بنكية"
         },
         "ROWTWELVE":{
-            "COLONE":"General and Administrative Expenses",
-            "COLTWO":"1,720",
-            "COLTHREE":"2,120",
-            "COLFOUR":"2,020"
+            "COLONE":"2,020",
+            "COLTWO":"2,120",
+            "COLTHREE":"1,720",
+            "COLFOUR":"مصروفات عمومية وإدارية"
         },
         "ROWTHIRTEEN":{
-            "COLONE":"Office Furniture depreciation",
+            "COLONE":"200",
             "COLTWO":"200",
             "COLTHREE":"200",
-            "COLFOUR":"200"
+            "COLFOUR":"إهلاك أثاث ومعدات مكتبية"
         },
         "ROWFOURTEEN":{
-            "COLONE":"Depreciation",
+            "COLONE":"200",
             "COLTWO":"200",
             "COLTHREE":"200",
-            "COLFOUR":"200"
+            "COLFOUR":"اهلاك أصول ثابتة"
         },
         "ROWFIFTEEN":{
-            "COLONE":"Interest Income",
+            "COLONE":"0",
             "COLTWO":"0",
             "COLTHREE":"0",
-            "COLFOUR":"0"
+            "COLFOUR":"فوائد دائنة"
         },
         "ROWSIXTEEN":{
-            "COLONE":"Earnings (loss) before taxes",
-            "COLTWO":"11,080",
-            "COLTHREE":"11,680",
-            "COLFOUR":"5,780"
+            "COLONE":"5,780",
+            "COLTWO":"11,680",
+            "COLTHREE":"11,080",
+            "COLFOUR":"صافي الربح (خسائر) قبل الضرائب"
         },
         "ROWSEVENTEEN":{
-            "COLONE":"Income Taxes",
+            "COLONE":"0",
             "COLTWO":"0",
             "COLTHREE":"0",
-            "COLFOUR":"0"
+            "COLFOUR":"ضريبة دخل"
         },
         "ROWEIGHTEEN":{
-            "COLONE":"Net Income (loss)",
-            "COLTWO":"11,080",
-            "COLTHREE":"11,680",
-            "COLFOUR":"5,780"
+            "COLONE":"5,780",
+            "COLTWO":"11,680",
+            "COLTHREE":"11,080",
+            "COLFOUR":"صافي الربح (خسائر) بعد الضرائب"
         },
         "ROWNINETEEN":{
-            "COLONE":"Number of shares",
+            "COLONE":"50,000",
             "COLTWO":"50,000",
             "COLTHREE":"50,000",
-            "COLFOUR":"50,000"
+            "COLFOUR":"عدد الأسهم"
         },
         "ROWTWENTY":{
-            "COLONE":"Earnings (loss) per Share",
-            "COLTWO":"0.22",
-            "COLTHREE":"0.23",
-            "COLFOUR":"0.12"
+            "COLONE":"0.12",
+            "COLTWO":"0.23",
+            "COLTHREE":"0.22",
+            "COLFOUR":"نصيب السهم من الأرباح (الخسائر)"
         }
     },
     "flagstyle": "flag-icon-it",
