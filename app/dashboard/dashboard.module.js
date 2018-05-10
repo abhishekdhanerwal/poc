@@ -1,8 +1,7 @@
 (function() {
     'use strict';
   
-    angular.module('myApp.login', [
-      'ngTable'
+    angular.module('myApp.dashboard', [
     ]);
   })();
   

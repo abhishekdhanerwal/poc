@@ -5,7 +5,9 @@ angular.module('myApp', [
   'ngRoute',
   'ui.router',
   'ui.bootstrap',
-  'myApp.login'
+  'pascalprecht.translate',
+  'myApp.login',
+  'myApp.dashboard'
 ])
 // .
 // config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {

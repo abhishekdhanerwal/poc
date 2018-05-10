@@ -1,6 +1,12 @@
 <div class="nav-top navbar_border">
-  <div class="align-text">
-    <label class="color-white">Choose your language</label>
+  <div class="row">
+    <div class="offset-md-2">
+    <label class="color-white">{{'navBar.LANGUAGE' | translate}}</label>
+  </div>
+  <div class="offset-md-6">
+      <select ng-model="vm.languageSelected" ng-change="vm.changeLanguage()" ng-options="x.name for x in vm.names">
+        </select>
+  </div>
   </div>
 </div>
 

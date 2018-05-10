@@ -1,0 +1,378 @@
+{
+    "navBar":{
+        "LANGUAGE":"Choose your language",
+        "ARABIC":"Arabic",
+        "ENGLISH":"English"
+    },
+    "login":{
+        "WELCOME":"Welcome! Please sign In",
+        "USER":"Login",
+        "PASSWORD":"Password",
+        "REMEMBER":"Remember Me",
+        "SIGNIN":"Sign In"
+    },
+    "dashboard":{
+        "TABLEHEADING":"Income Statement",
+        "ROWONE":{
+            "COL":"",
+            "COLONE":"January",
+            "COLTWO":"February",
+            "COLTHREE":"March"  
+        },
+        "ROWTHREE":{
+            "COLONE":"Sales – 1",
+            "COLTWO":"10,000",
+            "COLTHREE":"10,000",
+            "COLFOUR":"10,000"
+        },
+        "ROWFOUR":{
+            "COLONE":"Sales – 2",
+            "COLTWO":"5,000",
+            "COLTHREE":"5,000",
+            "COLFOUR":"3,000"
+        },
+        "ROWFIVE":{
+            "COLONE":"Revenue",
+            "COLTWO":"15,000",
+            "COLTHREE":"15,000",
+            "COLFOUR":"13,000"
+        },
+        "ROWSIX":{
+            "COLONE":"Cost of Sales",
+            "COLTWO":"2,000",
+            "COLTHREE":"1,000",
+            "COLFOUR":"5,000"
+        },
+        "ROWSEVEN":{
+            "COLONE":"Gross Profit",
+            "COLTWO":"13,000",
+            "COLTHREE":"14,000",
+            "COLFOUR":"8,000"
+        },
+        "ROWEIGHT":{
+            "COLONE":"Gross Salaries",
+            "COLTWO":"1,000",
+            "COLTHREE":"1,000",
+            "COLFOUR":"1,100"
+        },
+        "ROWNINE":{
+            "COLONE":"Rent",
+            "COLTWO":"500",
+            "COLTHREE":"500",
+            "COLFOUR":"500"
+        },
+        "ROWTEN":{
+            "COLONE":"Travelling Expenses",
+            "COLTWO":"200",
+            "COLTHREE":"600",
+            "COLFOUR":"400"
+        },
+        "ROWELEVEN":{
+            "COLONE":"Bank Charges",
+            "COLTWO":"20",
+            "COLTHREE":"20",
+            "COLFOUR":"20"
+        },
+        "ROWTWELVE":{
+            "COLONE":"General and Administrative Expenses",
+            "COLTWO":"1,720",
+            "COLTHREE":"2,120",
+            "COLFOUR":"2,020"
+        },
+        "ROWTHIRTEEN":{
+            "COLONE":"Office Furniture depreciation",
+            "COLTWO":"200",
+            "COLTHREE":"200",
+            "COLFOUR":"200"
+        },
+        "ROWFOURTEEN":{
+            "COLONE":"Depreciation",
+            "COLTWO":"200",
+            "COLTHREE":"200",
+            "COLFOUR":"200"
+        },
+        "ROWFIFTEEN":{
+            "COLONE":"Interest Income",
+            "COLTWO":"0",
+            "COLTHREE":"0",
+            "COLFOUR":"0"
+        },
+        "ROWSIXTEEN":{
+            "COLONE":"Earnings (loss) before taxes",
+            "COLTWO":"11,080",
+            "COLTHREE":"11,680",
+            "COLFOUR":"5,780"
+        },
+        "ROWSEVENTEEN":{
+            "COLONE":"Income Taxes",
+            "COLTWO":"0",
+            "COLTHREE":"0",
+            "COLFOUR":"0"
+        },
+        "ROWEIGHTEEN":{
+            "COLONE":"Net Income (loss)",
+            "COLTWO":"11,080",
+            "COLTHREE":"11,680",
+            "COLFOUR":"5,780"
+        },
+        "ROWNINETEEN":{
+            "COLONE":"Number of shares",
+            "COLTWO":"50,000",
+            "COLTHREE":"50,000",
+            "COLFOUR":"50,000"
+        },
+        "ROWTWENTY":{
+            "COLONE":"Earnings (loss) per Share",
+            "COLTWO":"0.22",
+            "COLTHREE":"0.23",
+            "COLFOUR":"0.12"
+        }
+    },
+    "flagstyle": "flag-icon-us",
+    "search": {
+        "PLACEHOLDER": "Enter search text here..."
+    },
+    "topbar": {
+        "messages": {
+            "MAIN": "Messages",
+            "HEADER": "Unread messages",
+            "SEEALL": "See All"
+        },
+
+        "activities": {
+            "MAIN": "Activities",
+            "HEADER": "You have new notifications",
+            "SEEALL": "See All"
+        },
+        "user": {
+            "PROFILE": "My Profile",
+            "CALENDAR": "My Calendar",
+            "MESSAGES": "My Messages",
+            "LOCKSCREEN": "Lock Screen",
+            "LOGOUT": "Log Out"
+        }
+    },
+    "offsidebar": {
+        "chat": {
+            "ONLINE": "On-Line",
+            "OFFLINE": "Off-Line",
+            "BACK": "Back",
+            "SEND": "Send",
+            "PLACEHOLDER": "Message"
+        },
+        "favorites": {
+            "MAIN": "Favorites"
+        },
+        "settings": {
+            "MAIN": "General Settings",
+            "NOTIFICATIONS": "Enable Notifications",
+            "SHOWEMAIL": "Show your E-mail",
+            "SHOWUSERS": "Show Offline Users",
+            "EMAILALERT": "E-mail Alerts",
+            "SMSALERT": "SMS Alerts",
+            "SAVE": "Save Changes"
+        }
+    },
+    "sidebar": {
+        "heading": {
+            "NAVIGATION": "Main Navigation",
+            "FEATURES": "Core Features",
+            "DOCUMENTATION": "Documentation"
+        },
+        "nav": {
+            "dashboard": {
+                "MAIN": "Dashboard"
+            },
+            "pagelayouts": {
+                "MAIN": "Page Layouts",
+                "FIXEDHEADER": "Fixed Header",
+                "FIXEDSIDEBAR": "Fixed Sidebar",
+                "FIXEDHEADERSIDEBAR": "Fixed Header &amp; Sidebar",
+                "FIXEDFOOTER": "Fixed Footer",
+                "BOXEDPAGE": "Boxed Page"
+            },
+            "layouts": {
+                "MAIN": "Layouts"
+            },
+            "components": {
+                "MAIN": "Components"
+            },
+            "element": {
+                "MAIN": "UI Elements",
+                "ELEMENTS": "Elements",
+                "BUTTONS": "Buttons",
+                "LINKS": "Link Effects",
+                "FONTAWESOME": "Font Awesome Icons",
+                "LINEARICONS": "Linear Icons",
+                "LETTERICONS": "Letter Icons",
+                "MODALS": "Modals",
+                "TOGGLE": "Toggle",
+                "TABS": "Tabs & Accordions",
+                "PANELS": "Panels",
+                "NOTIFICATIONS": "Notifications",
+                "SLIDERS": "Sliders",
+                "KNOB": "Knob component",
+                "TREEVIEW": "TreeView",
+                "MEDIA": "Media",
+                "NESTABLE": "Nestable List",
+                "TYPOGRAPHY": "Typography"
+            },
+            "tables": {
+                "MAIN": "Tables",
+                "BASIC": "Basic Tables",
+                "RESPONSIVE": "Responsive Tables",
+                "DYNAMIC": "Dynamic Tables",
+                "DATA": "ngTable"
+            },
+            "forms": {
+                "MAIN": "Forms",
+                "ELEMENTS": "Form Elements",
+                "PICKERS": "Pickers",
+                "XEDITABLE": "X-Editable Elements",
+                "TEXTEDITOR": "Text Editor",
+                "WIZARD": "Form Wizard",
+                "VALIDATION": "Form Validation",
+                "CROPPING": "Image Cropping",
+                "UPLOAD": "Multiple File Upload"
+            },
+            "login": {
+                "MAIN": "Login",
+                "LOGIN": "Login Form",
+                "REGISTRATION": "Registration Form",
+                "FORGOT": "Forgot Password Form",
+                "LOCKSCREEN": "Lock Screen"
+            },
+            "pages": {
+                "MAIN": "Pages",
+                "USERPROFILE": "User Profile",
+                "INVOICE": "Invoice",
+                "TIMELINE": "Timeline",
+                "CALENDAR": "Calendar",
+                "MESSAGES": "Messages",
+                "BLANKPAGE": "Starter Page"
+            },
+            "utilities": {
+                "MAIN": "Utilities",
+                "SEARCHRESULT": "Search Results",
+                "ERROR404": "Error 404",
+                "ERROR500": "Error 500",
+                "PRICING": "Pricing Table"
+            },
+            "3level": {
+                "MAIN": "3 Level Menu",
+                "Item1": {
+                    "MAIN": "Item 1",
+                    "LINK1": "Sample Link 1",
+                    "LINK2": "Sample Link 2",
+                    "LINK3": "Sample Link 3"
+                },
+                "Item2": {
+                    "MAIN": "Item 2",
+                    "LINK1": "Sample Link 1",
+                    "LINK2": "Sample Link 2",
+                    "LINK3": "Sample Link 3"
+                },
+                "Item3": {
+                    "MAIN": "Item 3",
+                    "LINK1": "Sample Link 1",
+                    "LINK2": "Sample Link 2",
+                    "LINK3": "Sample Link 3"
+                }
+            },
+            "4level": {
+                "MAIN": "4 Level Menu",
+                "Item1": {
+                    "MAIN": "Item 1",
+                    "link1": {
+                        "MAIN": "Sample Link 1",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link2": {
+                        "MAIN": "Sample Link 2",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link3": {
+                        "MAIN": "Sample Link 3",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    }
+                },
+                "Item2": {
+                    "MAIN": "Item 2",
+                    "link1": {
+                        "MAIN": "Sample Link 1",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link2": {
+                        "MAIN": "Sample Link 2",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link3": {
+                        "MAIN": "Sample Link 3",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    }
+                },
+                "Item3": {
+                    "MAIN": "Item 3",
+                    "link1": {
+                        "MAIN": "Sample Link 1",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link2": {
+                        "MAIN": "Sample Link 2",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    },
+                    "link3": {
+                        "MAIN": "Sample Link 3",
+                        "LINK1": "Link 1",
+                        "LINK2": "Link 2",
+                        "LINK3": "Link 3"
+                    }
+                }
+            },
+            "maps": {
+                "MAIN": "Maps"
+            },
+            "charts": {
+                "MAIN": "Charts"
+            },
+            "landing": {
+                "MAIN": "Landing Page"
+            },
+            "rtl": {
+                "MAIN": "RTL Version"
+            },
+            "ltr": {
+                "MAIN": "LTR Version"
+            }
+        }
+    },
+    "footer": {
+        "copyright": {
+            "MAIN": "Copyright",
+            "MESSAGE": "All rights reserved"
+        }
+    },
+    "setting": {
+        "MAIN": "Style Selector",
+        "FIXEDHEADER": "Fixed header",
+        "FIXEDSIDEBAR": "Fixed sidebar",
+        "CLOSEDSIDEBAR": "Closed sidebar",
+        "FIXEDFOOTER": "Fixed footer"
+    }
+}
